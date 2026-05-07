@@ -6,4 +6,4 @@
 
 This repo is part of our work:
 ***DUdetector: A Dual-granularity Unsupervised Model for Network Anomaly Detection***
-If you use the source code, please cite our paper.
+If you use this source code in your research, please kindly cite our paper.
